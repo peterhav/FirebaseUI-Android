@@ -11,14 +11,14 @@
 
     <!-- strings for Auth UI demo activities -->
     <eat-comment/>
-    <string name="launch_title">FirebaseUI Auth Demo</string>
+    <string name="launch_title">FirebaseUI authenticatie demo</string>
     <string name="sign_in">Start</string>
     <string name="green_theme">Groen thema</string>
     <string name="purple_theme">Paars thema</string>
     <string name="dark_theme">Donker thema</string>
     <string name="use_theme_header">Gebruik thema:</string>
     <string name="logo_header">Logo:</string>
-    <string name="firebase_logo_label">Firebase Auth</string>
+    <string name="firebase_logo_label">Firebase authenticatie</string>
     <string name="google_logo_label">Google</string>
     <string name="no_logo_label">Geen</string>
     <string name="auth_providers_header">Gebruik authenticatie providers:</string>
@@ -33,7 +33,7 @@
     <string name="firebase_tos_label">Firebase TOS</string>
     <string name="tos_header">Service voorwaarden URL:</string>
     <string name="unknown_response">Onverwachte onActivityResult meldings code</string>
-    <string name="unknown_sign_in_response">\"Onbekende melding bij inloggen met AuthUI</string>
+    <string name="unknown_sign_in_response">Onbekende melding bij inloggen met AuthUI</string>
     <string name="sign_in_cancelled">Inloggen geannuleerd</string>
     <string name="no_internet_connection">Geen internet connectie</string>
     <string name="signed_in_header">Je bent ingelogd!</string>
@@ -44,7 +44,7 @@
     <string name="user_profile_header">Gebruikers profiel:</string>
     <string name="profile_picture_content_desc">Profiel afbeelding</string>
     <string name="default_theme">Standaard thema</string>
-    <string name="configuration_required">Configuratie is nodig - lees de README.md</string>
+    <string name="configuration_required">Configuratie is noodzakelijk - lees de README.md</string>
     <string name="other_options_header">Overige opties:</string>
     <string name="enable_smartlock">Activeer SmartLock voor wachtwoorden</string>
     <string name="rational_image_perm">Dit voorbeeld upload een afbeelding van de lokale opslag naar Firebase Storage.</string>
