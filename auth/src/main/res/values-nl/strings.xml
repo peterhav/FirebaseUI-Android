@@ -22,14 +22,14 @@
     <string name="next_default">Volgende</string>
     <string name="email_hint">Email</string>
     <string name="password_hint">Wachtwoord</string>
-    <string name="required_field">Dit is een verplicht veld</string>
+    <string name="required_field">Dit is een verplicht veld.</string>
     <string name="invalid_email_address">Foutief email adres</string>
     <string name="missing_email_address">Voer email adres in om verder te gaan</string>
     <string name="progress_dialog_checking_accounts">Controleren op bestaande accounts…</string>
 
     <!-- Email sign up -->
     <string name="title_register_email">Aanmelden</string>
-    <string name="name_hint">Voor &amp; achter naam</string>
+    <string name="name_hint">Voor &amp; achter-naam</string>
     <string name="button_text_save">Opslaan</string>
     <string name="progress_dialog_signing_up">Aanmelden…</string>
     <plurals name="error_weak_password">
@@ -38,7 +38,7 @@
     </plurals>
     <string name="email_account_creation_error">Email account registratie mislukt</string>
     <string name="error_user_collision">Er bestaat al een account met dit email adres.</string>
-    <string name="create_account_preamble">"Door te klikken op OPSLAAN geeft u aan dat u akkoord gaat met de "</string>
+    <string name="create_account_preamble">\"Door op OPSLAAN te klikken geeft u aan dat u akkoord gaat met de \"</string>
     <string name="terms_of_service">Service voorwaarden</string>
 
     <!-- Idp/Email welcome back -->
@@ -55,16 +55,16 @@
         om aan te melden. Geeft je wachtwoord voor dit account.
     </string>
     <string name="progress_dialog_signing_in">Aanmelden…</string>
-    <string name="trouble_signing_in">Aanmelden mislukt</string>
+    <string name="trouble_signing_in">Problemen bij aanmelden?</string>
 
     <!-- Password recovery -->
     <string name="title_recover_password_activity">Wachtwoord herstel</string>
     <string name="title_confirm_recover_password">Controleer je email</string>
-    <string name="password_recovery_body">Ontvang instructies op dit adress waarin wordt uitgelegd hoe uw wachtwoord te resetten.</string>
+    <string name="password_recovery_body">Ontvang instructies op dit mail adres om uw wachtwoord te resetten.</string>
     <string name="button_text_send">Verstuur</string>
     <string name="confirm_recovery_body">Volg de intructies verstuurd naar %1$s om je wachtwoord te herstellen.</string>
     <string name="progress_dialog_sending">Versturen…</string>
-    <string name="error_email_does_not_exist">Het email adres komt niet overeen met een bestaand account</string>
+    <string name="error_email_does_not_exist">Geen bestaand account voor dit mail adres gevonden</string>
 
     <!-- accessibility -->
     <string name="accessibility_logo">App logo</string>
